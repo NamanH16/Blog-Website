@@ -1,2 +1,3 @@
 # Blog Website
  
+This is a EJS templated project where anyone can upload blogs,stories,articles and many more...
